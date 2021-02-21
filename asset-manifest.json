@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NamerLab/static/css/main.37907bbf.chunk.css",
+    "main.js": "/NamerLab/static/js/main.f11b33f5.chunk.js",
+    "main.js.map": "/NamerLab/static/js/main.f11b33f5.chunk.js.map",
+    "runtime-main.js": "/NamerLab/static/js/runtime-main.756d105c.js",
+    "runtime-main.js.map": "/NamerLab/static/js/runtime-main.756d105c.js.map",
+    "static/js/2.c42aa8e9.chunk.js": "/NamerLab/static/js/2.c42aa8e9.chunk.js",
+    "static/js/2.c42aa8e9.chunk.js.map": "/NamerLab/static/js/2.c42aa8e9.chunk.js.map",
+    "index.html": "/NamerLab/index.html",
+    "static/css/main.37907bbf.chunk.css.map": "/NamerLab/static/css/main.37907bbf.chunk.css.map",
+    "static/js/2.c42aa8e9.chunk.js.LICENSE.txt": "/NamerLab/static/js/2.c42aa8e9.chunk.js.LICENSE.txt",
+    "static/media/image.64828fa8.png": "/NamerLab/static/media/image.64828fa8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.756d105c.js",
+    "static/js/2.c42aa8e9.chunk.js",
+    "static/css/main.37907bbf.chunk.css",
+    "static/js/main.f11b33f5.chunk.js"
+  ]
+}
