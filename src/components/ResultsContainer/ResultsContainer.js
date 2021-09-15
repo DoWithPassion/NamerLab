@@ -8,7 +8,7 @@ const ResultsContainer = ({ suggestedNames }) => {
     });
     return (
         <div className="results-container">
-            {suggestedNamesJSX}
+            {suggestedNameJSX}
         </div>
     );
 }
